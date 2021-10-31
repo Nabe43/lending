@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    border: 0;
+}
+.box{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+header{
+    width: 100%;
+    height: 700px;
+    background: url(https://cdn.discordapp.com/attachments/897470296276213771/900736031580639262/4aa548b2ff9cc456.png);
+}
+.content{
+    width: 100%;
+    display: flex;
+    height: 50px;
+}
+.wordstartup{
+    width: 40%;
+    height: 30px;
+    color: white;
+    text-align: center;
+}
+.knop{
+    width: 60%;
+    flex-wrap: wrap;
+    align-content: center;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.knop a{
+    text-decoration: none;
+    color: white;
+}
+.welcome{
+    width: 50%;
+    height: 170px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+}
+.welcome p{
+    font-size: 30px;
+}
+button{
+    background: none;
+    border: 3px solid white;
+    width: 30%;
+    height: 50px;
+}
+a{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+section{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background: lightgray;
+}
+.text{
+    margin-top: 100px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+.hr{
+    background: gray;
+    height: 3px;
+    width: 60px;
+    margin: 0 auto;
+}
+.text p{
+    color: red;
+}
+.texxxt{
+    margin-top: 40px;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+.gallery{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.gg{
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: center;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.ggg{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+footer{
+    width: 100%;
+    height: 200px;
+    background: coral;
+    display: flex;
+    flex-wrap: wrap;
+    margin:  0 auto;
+}
+.fff{
+    margin-top: 40px;
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
+.ff{
+    width: 100%;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+i{
+    font-size: 40px;
+}
+.edd{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border:1px solid gray;
+    border-radius: 50%;
+    background: white;
+}
+.edd:hover{
+    background: coral;
+}
+.ed{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border:1px solid gray;
+    border-radius: 50%;
+    background: white;
+}
+.ed:hover{
+    background: coral;
+}
+.ded{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border:1px solid gray;
+    border-radius: 50%;
+    background: white;
+}
+.ded:hover{
+    background: coral;
+}
